@@ -1,0 +1,24 @@
+{
+  "name": "ddbx",
+  "version": "0.1.0",
+  "description": "Find and assess public director and insider share-dealing disclosures.",
+  "author": {
+    "name": "DDBX"
+  },
+  "repository": "https://github.com/jonwillington/ddbx-chatgpt-plugin",
+  "keywords": ["director-deals", "insider-transactions", "finance"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "DDBX",
+    "shortDescription": "Find public director-dealing disclosures.",
+    "longDescription": "Research public director and insider share-dealing disclosures, prioritizing primary filings and clear transaction details.",
+    "developerName": "DDBX",
+    "category": "Finance",
+    "capabilities": ["Research"],
+    "defaultPrompt": [
+      "Find recent director buys for Nvidia.",
+      "Summarize this week's insider sales at UK-listed banks.",
+      "Check director dealings for this company and cite the filings."
+    ]
+  }
+}
