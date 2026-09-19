@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">DDBX</title>
+  <rect width="256" height="256" rx="48" fill="#102A43"/>
+  <path d="M55 175V81h37c34 0 55 18 55 47s-21 47-55 47H55Zm29-24h9c16 0 27-8 27-23s-11-23-27-23h-9v46Z" fill="#F7FAFC"/>
+  <path d="M161 83h18l13 24 13-24h18l-22 40 24 50h-19l-14-29-14 29h-19l24-50-22-40Z" fill="#45D5C2"/>
+</svg>

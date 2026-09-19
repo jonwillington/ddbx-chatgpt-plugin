@@ -5,6 +5,7 @@
   "author": {
     "name": "DDBX"
   },
+  "homepage": "https://jonwillington.github.io/ddbx-chatgpt-plugin/",
   "repository": "https://github.com/jonwillington/ddbx-chatgpt-plugin",
   "keywords": ["director-deals", "insider-transactions", "finance"],
   "skills": "./skills/",
@@ -15,6 +16,10 @@
     "developerName": "DDBX",
     "category": "Finance",
     "capabilities": ["Research"],
+    "websiteURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/",
+    "privacyPolicyURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/privacy.html",
+    "termsOfServiceURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/terms.html",
+    "logo": "./assets/ddbx-logo.svg",
     "defaultPrompt": [
       "Find recent director buys for Nvidia.",
       "Summarize this week's insider sales at UK-listed banks.",
