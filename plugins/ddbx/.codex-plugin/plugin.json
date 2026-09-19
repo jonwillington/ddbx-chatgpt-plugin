@@ -1,13 +1,17 @@
 {
   "name": "ddbx",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260919104019",
   "description": "Find and assess public director and insider share-dealing disclosures.",
   "author": {
     "name": "DDBX"
   },
   "homepage": "https://jonwillington.github.io/ddbx-chatgpt-plugin/",
   "repository": "https://github.com/jonwillington/ddbx-chatgpt-plugin",
-  "keywords": ["director-deals", "insider-transactions", "finance"],
+  "keywords": [
+    "director-deals",
+    "insider-transactions",
+    "finance"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "DDBX",
@@ -15,7 +19,9 @@
     "longDescription": "Research public director and insider share-dealing disclosures, prioritizing primary filings and clear transaction details.",
     "developerName": "DDBX",
     "category": "Finance",
-    "capabilities": ["Research"],
+    "capabilities": [
+      "Research"
+    ],
     "websiteURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/",
     "privacyPolicyURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/privacy.html",
     "termsOfServiceURL": "https://jonwillington.github.io/ddbx-chatgpt-plugin/terms.html",
